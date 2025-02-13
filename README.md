@@ -70,7 +70,7 @@ Certifique-se de ter o seguinte instalado em sua máquina:
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-**Cloning the Repository**
+**Clonando o Repositorio**
 
 ```bash
 git clone https://github.com/samirmussa/PortifolioSamir/main.git
