@@ -13,7 +13,7 @@
    
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
+## 📋 <a name="table">Tabela de componentes</a>
 
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
@@ -26,46 +26,44 @@
 
 
 
-## <a name="introduction">🤖 Introduction</a>
+## <a name="introduction">🤖 Introducao</a>
 
-Built with Next.js for handling the user interface, Three.js for rendering 3D elements, Framer motion for beautiful animations, and styled with TailwindCSS, this portfolio demonstrates the developer's skills in a unique manner that creates a lasting impact.
+Construído com Next.js para lidar com a interface do usuário, Three.js para renderizar elementos 3D, movimento Framer para belas animações e estilizado com TailwindCSS, este portfólio demonstra as habilidades do desenvolvedor de uma maneira única que cria um impacto duradouro.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+** members. It's a place where people help each other out.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## <a name="tech-stack">⚙️Ferramentas utilizadas</a>
 
 - Next.js
 - Three.js
 - Framer Motion
 - Tailwind CSS
 
-## <a name="features">🔋 Features</a>
+## <a name="features">🔋 Componentes</a>
 
-👉 **Hero**: Captivating introduction featuring a spotlight effect and dynamic background.
+👉 **Hero**: Introdução cativante com um efeito de destaque e fundo dinâmico.
 
-👉 **Bento Grid**: Modern layout presenting personal information using cutting-edge CSS design techniques.
+👉 **Bento Grid**: Layout moderno apresentando informações pessoais usando técnicas de design CSS de ponta.
 
-👉 **3D Elements**:  Interactive 3D design elements, such as a GitHub-style globe and card hover effects, adding depth and engagement.
+👉 **3D Elements**:  Elementos de design 3D interativos, como um globo estilo GitHub e efeitos de pairar de cartão, adicionando profundidade e engajamento.
 
-👉 **Testimonials**: Dynamic testimonials area with scrolling or animated content for enhanced engagement.
+👉 **Testimonials**: Área de depoimentos dinâmicos com rolagem ou conteúdo animado para maior engajamento.
 
-👉 **Work Experience**: Prominent display of professional background for emphasis and credibility.
+👉 **Work Experience**: Exposição proeminente do fundo profissional para a ênfase e a credibilidade.
 
-👉 **Canvas Effect**: Innovative use of HTML5 canvas to create visually striking effects in the "approaches" section.
+👉 **Canvas Effect**: Uso inovador da tela HTML5 para criar efeitos visualmente impressionantes na seção "abordagens".
 
-👉 **Responsiveness**: Seamless adaptability across all devices, ensuring optimal viewing experience for every user.
+👉 **Responsiveness**: Adaptabilidade perfeita em todos os dispositivos, garantindo uma experiência de visualização ideal para todos os usuários.
 
-and many more, including code architecture and reusability 
 
-## <a name="quick-start">🤸 Quick Start</a>
 
-Follow these steps to set up the project locally on your machine.
+## <a name="quick-start">🤸 Teste Rapido</a>
 
-**Prerequisites**
+Siga estas etapas para configurar o projeto localmente em sua máquina.
 
-Make sure you have the following installed on your machine:
+**Pré-requisitos**
+
+Certifique-se de ter o seguinte instalado em sua máquina:
 
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
@@ -74,29 +72,29 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/portfolio.git
-cd portfolio
+git clone https://github.com/samirmussa/PortifolioSamir/main.git
+cd PortfolioSamir
 ```
 
-**Installation**
+**Instalação**
 
-Install the project dependencies using npm:
+Instale as dependências do projeto usando npm:
 
 ```bash
 npm install
 ```
 
-**Running the Project**
+**Executando o Projeto**
 
 ```bash
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+Abre [http://localhost:3000](http://localhost:3000) no seu navegador para visualizar o projeto.
 
 ## <a name="snippets">🕸️ Snippets</a>
 
-<details>
+<detalhes>
 <summary><code>data/index.ts</code></summary>
 
 ```typescript
